@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudServiceWeather", "c:\users\lukec\onedrive\documents\visual studio 2015\Projects\AzureCloudServiceWeather\AzureCloudServiceWeather\AzureCloudServiceWeather.ccproj", "{29623646-B084-4EAF-80BE-E13004CD34DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "c:\users\lukec\onedrive\documents\visual studio 2015\Projects\AzureCloudServiceWeather\WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{89A893D6-D0A1-480E-A723-7774D727582A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29623646-B084-4EAF-80BE-E13004CD34DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29623646-B084-4EAF-80BE-E13004CD34DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29623646-B084-4EAF-80BE-E13004CD34DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29623646-B084-4EAF-80BE-E13004CD34DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A893D6-D0A1-480E-A723-7774D727582A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A893D6-D0A1-480E-A723-7774D727582A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A893D6-D0A1-480E-A723-7774D727582A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A893D6-D0A1-480E-A723-7774D727582A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
