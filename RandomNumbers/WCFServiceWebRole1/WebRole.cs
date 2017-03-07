@@ -14,6 +14,8 @@ namespace WCFServiceWebRole1
             // For information on handling configuration changes
             // see the MSDN topic at https://go.microsoft.com/fwlink/?LinkId=166357.
 
+            //this is a test check in
+
             return base.OnStart();
         }
     }
